@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fadhilahnur, a Data Scientist
 - 👀 Strong and skillful in Data Analysis using Python,R, and SQL
-- 👀 My long term goal is to create a forecast and planning simulation software using Python capturing all the trend and get prediction using the best  
+- 👀 My long term goal is to create a forecast and planning simulation software using Python capturing all the trend and get prediction using the best
      model from modelling analysis
 - 🌱 Knowledgeable of business logic of  SAP and SAGE  
 - 🌱 Proficience in Data Visualization - Power BI and Tableau
