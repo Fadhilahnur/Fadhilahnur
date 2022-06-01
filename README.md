@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Fadhilahnur
-- 👀 I’m interested in Python and R
-- 🌱 I’m currently learning Machine Learning 
+- 👋 Hi, I’m @Fadhilahnur, a Data Scientist
+- 👀 Strong and skillful in Data Analysis using Python,R, and SQL
+- 🌱 Knowledgeable of business logic of  SAP and SAGE  
+- 🌱 Proficience in Data Visualization - Power BI and Tableau
+- 🌱 Expert in Advanced Machine Learning (XGBoost, Random Forest,LSTM,RNN,etc.) and Timeseries forecasting techniques (ARIMA, SARIMA, Linear Regression, 
+     Logistic regression, Lasso regression, Monte Carlo simulation)
 - 💞️ I’m looking to collaborate on all the above
 - 📫 How to reach me: just email me at nurila80@gmail.com
 
