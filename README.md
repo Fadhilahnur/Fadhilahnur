@@ -2,7 +2,7 @@
 - 👀 Strong and skillful in Data Analysis using Python,R, and SQL
 - 👀 My long term goal is to create a forecast and planning simulation software using Python capturing all the trend and get prediction using the best
      model from modelling analysis
-- 🌱 Knowledgeable of business logic of  SAP and SAGE  
+- 🌱 Knowledgeable of business logic of  SAP Business One Client and SAGE 300 ERP 
 - 🌱 Proficience in Data Visualization - Power BI and Tableau
 - 🌱 Expert in Advanced Machine Learning (XGBoost, Random Forest,LSTM,RNN,etc.) and Timeseries forecasting techniques (ARIMA, SARIMA, Linear Regression, 
      Logistic regression, Lasso regression, Monte Carlo simulation)
